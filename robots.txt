@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tionebrani.github.io/sitemap
+Sitemap: https://tionebrani.github.io/app/sitemap
+Sitemap: https://tionebrani.github.io/assets/sitemap
+Sitemap: https://tionebrani.github.io/css/sitemap
+Sitemap: https://tionebrani.github.io/includes/sitemap
+Sitemap: https://tionebrani.github.io/item/sitemap
+Sitemap: https://tionebrani.github.io/src/sitemap
